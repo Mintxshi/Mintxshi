@@ -9,4 +9,4 @@ and also here are the programming languages i know
 
 thats really it, but tea is also good.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mintxshi)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mintxshi&show_icons=true&theme=synthware)
