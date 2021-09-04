@@ -14,3 +14,5 @@ thats really it, but tea is also good.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mintxshi&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mintxshi&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mintxshi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
